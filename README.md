@@ -19,6 +19,7 @@
 | Project | What it shows |
 |---|---|
 | **[Neobank A/B Test & Retention Analytics](https://github.com/Richi9PP/revolut-fintech-analytics)** | End-to-end **SQL → Python → A/B test → Streamlit dashboard**. Frequentist + Bayesian experimentation, power analysis, guardrail metrics; +5.6pp retention lift with a defensible ship decision. `Python` `SQL` `statsmodels` `Streamlit` `pytest` |
+| **[FX Risk & Cost Dashboard](https://github.com/Richi9PP/fx-risk-dashboard)** | Interactive dashboard on **real ECB exchange-rate data** (Frankfurter API): rolling **volatility**, correlations, **VaR / Expected Shortfall**, drawdowns, plus a **mid-market vs markup** conversion-cost simulator and a random-walk forecast benchmark. `Python` `Streamlit` `Plotly` `pandas` `pytest` |
 | **[Airline Satisfaction — Binary Classification](https://github.com/Richi9PP/DataMining)** | Logistic Regression vs **Random Forest** on 103k rows; **AUC 0.992 / 95.6% accuracy**, cross-validated with no overfitting. `scikit-learn` `statsmodels` |
 | **[Eventowy Art — Bilingual Web App](https://eventowyart.pl/)** | Full-stack development of a bilingual (PL/EN) **Flask** web application deployed on Render. Features seamless client-side state management (no-reload language switching), dynamic media galleries, and automated lead routing via the **Resend API**. `Python` `Flask` `API Integration` `Render` |
 | **[CN Invest Group — Corporate Website](https://cninvestgroup.com.pl/)** | End-to-end design and deployment of a responsive corporate single-page application. Built with **Tailwind CSS** and a secure **PHP backend** (PHPMailer + SMTP). Implemented client-side validation, honeypot spam protection, and IP-based rate limiting. `Tailwind CSS` `PHP` `Security` `Web Development` |
@@ -35,6 +36,7 @@
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **Web Development & Workflow** <br>
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
