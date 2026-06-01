@@ -38,9 +38,4 @@
 - Clean, tested Python and complex SQL on event data
 - Currently going deep on experimentation design and product analytics in fintech
 
-### 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Richi9PP&show_icons=true&hide_border=true&theme=default)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richi9PP&layout=compact&hide_border=true)
-
-<sub>MSc Advanced Analytics – Big Data · BSc Quantitative Methods in Economics & IS · Warsaw, Poland · open to relocation</sub>
+<sub>MSc Advanced Analytics – Big Data · BSc Quantitative Methods in Economics & IS · Warsaw, Poland </sub>
