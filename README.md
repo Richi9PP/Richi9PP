@@ -46,7 +46,7 @@
 ### 🎯 Focus
 
 - Fintech & Real-Time Processing: Writing clean, tested Python and complex SQL on event data. Currently exploring Apache Kafka to process streaming transaction data and model real-time fraud detection pipelines.
-- - Product-Driven Analytics & Experimentation: Applying rigorous A/B testing, cohort analysis, and statistics. I bring a product-first perspective from developing commercial web applications, ensuring data insights translate directly into impactful user experiences and retention.
+- Product-Driven Analytics & Experimentation: Applying rigorous A/B testing, cohort analysis, and statistics. I bring a product-first perspective from developing commercial web applications, ensuring data insights translate directly into impactful user experiences and retention.
 - AI-Accelerated Engineering: Leveraging advanced LLM workflows and Model Context Protocol (MCP) servers to accelerate code delivery, prototype complex data architectures, and maintain high engineering efficiency.
 - Global Scale & Business Execution: Thriving in fast-paced, international business environments. I combine cross-border academic agility (MCI Innsbruck) with enterprise-scale execution as a *zleceniobiorca* at Warner Bros Discovery.
 
