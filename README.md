@@ -27,13 +27,22 @@
 
 ### 🧰 Tech & tools
 
+**Data Science, Engineering & BI** <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+**Web Development & Workflow** <br>
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![MCP & AI Workflows](https://img.shields.io/badge/-AI%20Engineering%20%26%20MCP-0A0A0A?logo=openai&logoColor=white)
 ### 🎯 Focus
 
 - Fintech & Real-Time Processing: Writing clean, tested Python and complex SQL on event data. Currently exploring Apache Kafka to process streaming transaction data and model real-time fraud detection pipelines.
